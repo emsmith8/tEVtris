@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TetrisCloneAttempt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TetrisCloneAttempt_jar</output-path>
+    <root id="archive" name="TetrisCloneAttempt.jar">
+      <element id="module-output" name="TetrisCloneAttempt" />
+    </root>
+  </artifact>
+</component>
