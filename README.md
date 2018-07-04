@@ -5,6 +5,4 @@ This is a Tetris clone written in Java. I am tinkering with this for fun and to 
 I used <a href="https://gist.github.com/DataWraith/5236083">DataWraith's Java Tetris</a> as a starting point.
 
 
-![tEVtris screenshot](stringly.github.com/tEVtris/images/Tevtris.PNG)
-
-
+![tEVtris screenshot](https://raw.githubusercontent.com/stringly/master/tEVtris/images/Tevtris.PNG)
